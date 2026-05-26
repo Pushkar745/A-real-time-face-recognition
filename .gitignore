@@ -89,3 +89,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+database/
+haarcascade_frontalface_default.xml
+__pycache__/
+*.pyc
